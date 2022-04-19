@@ -1,0 +1,7 @@
+name: Report
+version: '${project.version}'
+main: me.max.report.Main
+api-version: 1.18
+commands:
+  report:
+  discord:
